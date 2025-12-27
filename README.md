@@ -63,7 +63,7 @@
 
 ---
 
-### Personal Projects (excluded project from University)
+### Personal Projects
 
 <table width="100%">
   <tr>
