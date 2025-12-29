@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhxa3gydmhlNzB5ejZocG1vMHRpZXBzdmlqbmFlZGhwZTRsbDR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="auto"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhxa3gydmhlNzB5ejZocG1vMHRpZXBzdmlqbmFlZGhwZTRsbDR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" height="auto"/>
 
   # Hi there, I'm Ryan.H ! 👋
   (You can call me An Huynh if you prefer :D)
